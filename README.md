@@ -126,7 +126,9 @@ Create a django project amd a static folder containing a html folder, which in t
     </body>
 </html>
 ## Output:
-![coverpage](https://github.com/SVENGADAKRISHNAN/cover-page-design/assets/147473084/6dab5d2e-2a3f-402d-a145-822d36c45445)
+
+![coverpage](https://github.com/SVENGADAKRISHNAN/cover-page-design/assets/147473084/9ec70f35-8c8b-4204-bae8-6dba750919f6)
+
 
 
 
